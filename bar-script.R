@@ -9,4 +9,5 @@ plot(sin(x),type = "b")
 
 # I think we need to change b to c.
 # b
-# I changed my mind again. It should be b. 
+#d
+#Im going to merge to the original 
